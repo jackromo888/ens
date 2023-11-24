@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ensdomains/ens#readme",
   "dependencies": {
-    "bluebird": "^3.5.2",
+    "bluebird": "^3.7.2",
     "eth-ens-namehash": "^2.0.8",
     "solc": "^0.4.20",
     "testrpc": "0.0.1"
